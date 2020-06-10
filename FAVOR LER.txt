@@ -1,0 +1,4 @@
+# EFAE
+Repositório criado para o desenvolvimento do Trabalho de Conclusão de Curso
+
+Os arquivos e tópicos solicitados, tais como: Criação de Banco de Dados, Criação de Identidades e etc, não foram criados até o presente momento por motivos de: Há 2 métodos para realizar o Exame de Refração que ainda estão sendo discutidos com os consultores, nas quais estão sendo avaliados qual será mais viável para uso comercial na plataforma de comercialização B2B (Business to Business).
